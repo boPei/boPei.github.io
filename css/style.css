@@ -1,9 +1,4 @@
-/*
-Author: http://webthemez.com
-Note: Donate to remove backlink/credits in the footer(webthemez.com)--
-Any help: webthemez@gmail.com
-Licence: Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-*/
+
 @charset "utf-8";
 @import url(http://fonts.googleapis.com/css?family=Raleway:800,700,400);
 @import url(http://fonts.googleapis.com/css?family=Signika:400,600);
@@ -319,12 +314,12 @@ p {
 }
 
 .navStyle ul li a:hover {
-    color: #41a8ed;
+    color: #ED5441;
 }
 
 .navStyle > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
-    color: #41a8ed;
+    color: #ED5441;
     background-color: transparent;
 }
 
@@ -341,7 +336,7 @@ p {
 .navStyle > li.active > a,
 .navStyle > li.active > a:hover {
     text-decoration: none;
-    color: #41a8ed;
+    color: #ED5441;
     background-color: transparent;
 }
 
@@ -361,7 +356,7 @@ p {
 ---------------------------------*/
 
 .top_cont_outer {
-    background: #41a8ed;
+    background: #ED5441;
     position: relative;
 	
     background: #CE1139;
@@ -454,8 +449,8 @@ a.read_more2:hover, a.read_more:hover {
 }
 a.read_more:hover {
     background: #fff;
-    color: #41a8ed;
-    border: 1px solid #41a8ed;
+    color: #ED5441;
+    border: 1px solid #ED5441;
 }
 
 
@@ -600,18 +595,18 @@ a.contact_btn {
     text-align: center;
     line-height: 49px;
     font-size: 16px;
-    color: #41a8ed;
+    color: #ED5441;
     border-radius: 3px;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
-    border: 2px solid #41a8ed;
+    border: 2px solid #ED5441;
     transition: all 0.2s ease-in-out;
     -moz-transition: all 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out;
 }
 
 a.contact_btn:hover {
-    background: #41a8ed;
+    background: #ED5441;
     color: #fff;
 }
 
@@ -655,7 +650,7 @@ a.contact_btn:hover {
 }
 
 .Portfolio-nav li a:hover {
-    background: #41a8ed;
+    background: #ED5441;
     color: #fff;
     text-decoration: none;
 }
@@ -685,7 +680,7 @@ a.contact_btn:hover {
 }
 
 .Portfolio-nav li a.current {
-    background: #41a8ed;
+    background: #ED5441;
     color: #fff;
     text-decoration: none;
 }
@@ -815,7 +810,7 @@ background-size: auto 100%;
 background-position-y: 70px;
 }
 #about-us .read-more{
-	border: 1px solid #41a8ed;
+	border: 1px solid #ED5441;
 	color: #1a1a1a;
 }
 
@@ -1048,7 +1043,7 @@ border: 1px solid #CE1139;
 }
 
 .contact_block_icon.icon2 {
-    border-color: #41a8ed;
+    border-color: #ED5441;
 }
 
 .contact_block_icon.icon3 {
@@ -1065,11 +1060,11 @@ border: 1px solid #CE1139;
 }
 
 .contact_block_icon.icon2 {
-    border-color: #41a8ed;
+    border-color: #ED5441;
 }
 
 .contact_block_icon.icon2 span {
-    background: #41a8ed;
+    background: #ED5441;
 }
 
 .contact_block_icon.icon3 {
@@ -1949,7 +1944,7 @@ font-size: 30px;
 padding: 60px 0 50px;
 } 
 .navbar-inverse .navbar-toggle .icon-bar{
-background:#41a8ed;
+background:#ED5441;
 }
 .navbar-inverse .navbar-toggle {
 border-color: transparent;
